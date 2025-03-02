@@ -9,6 +9,10 @@ html {
     box-sizing: border-box;
 }
 
+
+h1 {
+    color: #ff7f7f;
+  }
 /* reset for images to ensure they ar 100% of the parent container width */
 img {
     width: 100%;
