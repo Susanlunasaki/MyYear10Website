@@ -22,7 +22,7 @@ img {
 .hero {
     background-image: url(images/Beatuifil.jpeg);
     height: 50vh;
-    background-size: cover;
+    background-size: 120%;
     background-position: center;
     display: flex;
     justify-content: center;
