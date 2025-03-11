@@ -13,6 +13,9 @@ html {
 h1 {
     color: #ff7f7f;
   }
+print {
+    color: #32127a;
+  }
 /* reset for images to ensure they ar 100% of the parent container width */
 img {
     width: 100%;
